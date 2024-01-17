@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name BarraCorto)(type Legacy)(uri ${KIPRJMOD}/BarraCorto.lib)(options "")(descr ""))
+  (lib (name BarraCorto-rescue)(type Legacy)(uri ${KIPRJMOD}/BarraCorto-rescue.lib)(options "")(descr ""))
+)

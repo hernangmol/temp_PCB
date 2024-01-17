@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LDD-1000L
+D Current regulator
+K Current regulator
+F http://www.ti.com/lit/ds/symlink/cd4543b.pdf
+$ENDCMP
+#
+#End Doc Library

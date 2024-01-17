@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM3914
+D BCD to 7-segment latch/decoder/driver
+K CMOS 7-segment latch decoder driver
+F http://www.ti.com/lit/ds/symlink/cd4543b.pdf
+$ENDCMP
+#
+#End Doc Library

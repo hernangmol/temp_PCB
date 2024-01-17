@@ -1,0 +1,430 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 6 7
+Title "Barra de Cortocircuito para 3er Riel"
+Date "2022-01-19"
+Rev "2.0"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:LED D?
+U 1 1 61DB21B8
+P 4000 3250
+AR Path="/61B7EB71/61DB21B8" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB21B8" Ref="D301"  Part="1" 
+AR Path="/61F84726/61DB21B8" Ref="D701"  Part="1" 
+F 0 "D301" V 4072 3388 50  0000 C CNN
+F 1 "LED" V 3993 3376 50  0000 C CNN
+F 2 "" H 4000 3250 50  0001 C CNN
+F 3 "~" H 4000 3250 50  0001 C CNN
+	1    4000 3250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4000 3400 4000 3650
+$Comp
+L Device:LED D?
+U 1 1 61DB21BF
+P 4000 3800
+AR Path="/61B7EB71/61DB21BF" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB21BF" Ref="D302"  Part="1" 
+AR Path="/61F84726/61DB21BF" Ref="D702"  Part="1" 
+F 0 "D302" V 4072 3938 50  0000 C CNN
+F 1 "LED" V 3993 3926 50  0000 C CNN
+F 2 "" H 4000 3800 50  0001 C CNN
+F 3 "~" H 4000 3800 50  0001 C CNN
+	1    4000 3800
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61DB21C5
+P 4000 4350
+AR Path="/61B7EB71/61DB21C5" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB21C5" Ref="D303"  Part="1" 
+AR Path="/61F84726/61DB21C5" Ref="D703"  Part="1" 
+F 0 "D303" V 4072 4488 50  0000 C CNN
+F 1 "LED" V 3993 4476 50  0000 C CNN
+F 2 "" H 4000 4350 50  0001 C CNN
+F 3 "~" H 4000 4350 50  0001 C CNN
+	1    4000 4350
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4000 3950 4000 4200
+$Comp
+L Device:LED D?
+U 1 1 61DB21CC
+P 4650 3250
+AR Path="/61B7EB71/61DB21CC" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB21CC" Ref="D304"  Part="1" 
+AR Path="/61F84726/61DB21CC" Ref="D704"  Part="1" 
+F 0 "D304" V 4722 3388 50  0000 C CNN
+F 1 "LED" V 4643 3376 50  0000 C CNN
+F 2 "" H 4650 3250 50  0001 C CNN
+F 3 "~" H 4650 3250 50  0001 C CNN
+	1    4650 3250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4650 3400 4650 3650
+$Comp
+L Device:LED D?
+U 1 1 61DB21D3
+P 4650 3800
+AR Path="/61B7EB71/61DB21D3" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB21D3" Ref="D305"  Part="1" 
+AR Path="/61F84726/61DB21D3" Ref="D705"  Part="1" 
+F 0 "D305" V 4722 3938 50  0000 C CNN
+F 1 "LED" V 4643 3926 50  0000 C CNN
+F 2 "" H 4650 3800 50  0001 C CNN
+F 3 "~" H 4650 3800 50  0001 C CNN
+	1    4650 3800
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61DB21D9
+P 4650 4350
+AR Path="/61B7EB71/61DB21D9" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB21D9" Ref="D306"  Part="1" 
+AR Path="/61F84726/61DB21D9" Ref="D706"  Part="1" 
+F 0 "D306" V 4722 4488 50  0000 C CNN
+F 1 "LED" V 4643 4476 50  0000 C CNN
+F 2 "" H 4650 4350 50  0001 C CNN
+F 3 "~" H 4650 4350 50  0001 C CNN
+	1    4650 4350
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4650 3950 4650 4200
+$Comp
+L Device:LED D?
+U 1 1 61DB2208
+P 5400 3050
+AR Path="/61B7EB71/61DB2208" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB2208" Ref="D313"  Part="1" 
+AR Path="/61F84726/61DB2208" Ref="D707"  Part="1" 
+F 0 "D313" V 5472 3188 50  0000 C CNN
+F 1 "LED" V 5393 3176 50  0000 C CNN
+F 2 "" H 5400 3050 50  0001 C CNN
+F 3 "~" H 5400 3050 50  0001 C CNN
+	1    5400 3050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5400 3200 5400 3450
+$Comp
+L Device:LED D?
+U 1 1 61DB220F
+P 5400 3600
+AR Path="/61B7EB71/61DB220F" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB220F" Ref="D314"  Part="1" 
+AR Path="/61F84726/61DB220F" Ref="D708"  Part="1" 
+F 0 "D314" V 5472 3738 50  0000 C CNN
+F 1 "LED" V 5393 3726 50  0000 C CNN
+F 2 "" H 5400 3600 50  0001 C CNN
+F 3 "~" H 5400 3600 50  0001 C CNN
+	1    5400 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61DB2215
+P 5400 4150
+AR Path="/61B7EB71/61DB2215" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB2215" Ref="D315"  Part="1" 
+AR Path="/61F84726/61DB2215" Ref="D709"  Part="1" 
+F 0 "D315" V 5472 4288 50  0000 C CNN
+F 1 "LED" V 5393 4276 50  0000 C CNN
+F 2 "" H 5400 4150 50  0001 C CNN
+F 3 "~" H 5400 4150 50  0001 C CNN
+	1    5400 4150
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5400 3750 5400 4000
+$Comp
+L Device:LED D?
+U 1 1 61DB221C
+P 6050 3050
+AR Path="/61B7EB71/61DB221C" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB221C" Ref="D316"  Part="1" 
+AR Path="/61F84726/61DB221C" Ref="D710"  Part="1" 
+F 0 "D316" V 6122 3188 50  0000 C CNN
+F 1 "LED" V 6043 3176 50  0000 C CNN
+F 2 "" H 6050 3050 50  0001 C CNN
+F 3 "~" H 6050 3050 50  0001 C CNN
+	1    6050 3050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6050 3200 6050 3450
+$Comp
+L Device:LED D?
+U 1 1 61DB2223
+P 6050 3600
+AR Path="/61B7EB71/61DB2223" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB2223" Ref="D317"  Part="1" 
+AR Path="/61F84726/61DB2223" Ref="D711"  Part="1" 
+F 0 "D317" V 6122 3738 50  0000 C CNN
+F 1 "LED" V 6043 3726 50  0000 C CNN
+F 2 "" H 6050 3600 50  0001 C CNN
+F 3 "~" H 6050 3600 50  0001 C CNN
+	1    6050 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61DB2229
+P 6050 4150
+AR Path="/61B7EB71/61DB2229" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB2229" Ref="D318"  Part="1" 
+AR Path="/61F84726/61DB2229" Ref="D712"  Part="1" 
+F 0 "D318" V 6122 4288 50  0000 C CNN
+F 1 "LED" V 6043 4276 50  0000 C CNN
+F 2 "" H 6050 4150 50  0001 C CNN
+F 3 "~" H 6050 4150 50  0001 C CNN
+	1    6050 4150
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6050 3750 6050 4000
+$Comp
+L Device:LED D?
+U 1 1 61DB2230
+P 6700 3050
+AR Path="/61B7EB71/61DB2230" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB2230" Ref="D319"  Part="1" 
+AR Path="/61F84726/61DB2230" Ref="D713"  Part="1" 
+F 0 "D319" V 6772 3188 50  0000 C CNN
+F 1 "LED" V 6693 3176 50  0000 C CNN
+F 2 "" H 6700 3050 50  0001 C CNN
+F 3 "~" H 6700 3050 50  0001 C CNN
+	1    6700 3050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6700 3200 6700 3450
+$Comp
+L Device:LED D?
+U 1 1 61DB2237
+P 6700 3600
+AR Path="/61B7EB71/61DB2237" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB2237" Ref="D320"  Part="1" 
+AR Path="/61F84726/61DB2237" Ref="D714"  Part="1" 
+F 0 "D320" V 6772 3738 50  0000 C CNN
+F 1 "LED" V 6693 3726 50  0000 C CNN
+F 2 "" H 6700 3600 50  0001 C CNN
+F 3 "~" H 6700 3600 50  0001 C CNN
+	1    6700 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61DB223D
+P 6700 4150
+AR Path="/61B7EB71/61DB223D" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB223D" Ref="D321"  Part="1" 
+AR Path="/61F84726/61DB223D" Ref="D715"  Part="1" 
+F 0 "D321" V 6772 4288 50  0000 C CNN
+F 1 "LED" V 6693 4276 50  0000 C CNN
+F 2 "" H 6700 4150 50  0001 C CNN
+F 3 "~" H 6700 4150 50  0001 C CNN
+	1    6700 4150
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6700 3750 6700 4000
+$Comp
+L Device:LED D?
+U 1 1 61DB2244
+P 7400 3050
+AR Path="/61B7EB71/61DB2244" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB2244" Ref="D322"  Part="1" 
+AR Path="/61F84726/61DB2244" Ref="D716"  Part="1" 
+F 0 "D322" V 7472 3188 50  0000 C CNN
+F 1 "LED" V 7393 3176 50  0000 C CNN
+F 2 "" H 7400 3050 50  0001 C CNN
+F 3 "~" H 7400 3050 50  0001 C CNN
+	1    7400 3050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7400 3200 7400 3450
+$Comp
+L Device:LED D?
+U 1 1 61DB224B
+P 7400 3600
+AR Path="/61B7EB71/61DB224B" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB224B" Ref="D323"  Part="1" 
+AR Path="/61F84726/61DB224B" Ref="D717"  Part="1" 
+F 0 "D323" V 7472 3738 50  0000 C CNN
+F 1 "LED" V 7393 3726 50  0000 C CNN
+F 2 "" H 7400 3600 50  0001 C CNN
+F 3 "~" H 7400 3600 50  0001 C CNN
+	1    7400 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61DB2251
+P 7400 4150
+AR Path="/61B7EB71/61DB2251" Ref="D?"  Part="1" 
+AR Path="/61C2C499/61DB2251" Ref="D324"  Part="1" 
+AR Path="/61F84726/61DB2251" Ref="D718"  Part="1" 
+F 0 "D324" V 7472 4288 50  0000 C CNN
+F 1 "LED" V 7393 4276 50  0000 C CNN
+F 2 "" H 7400 4150 50  0001 C CNN
+F 3 "~" H 7400 4150 50  0001 C CNN
+	1    7400 4150
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7400 3750 7400 4000
+Wire Wire Line
+	3100 3800 3600 3800
+Wire Wire Line
+	3100 3900 3600 3900
+Wire Wire Line
+	4000 3100 4000 2800
+Wire Wire Line
+	4650 3100 4650 2800
+Wire Wire Line
+	5400 2500 5400 2900
+Connection ~ 5400 2500
+Wire Wire Line
+	5400 2500 6050 2500
+Wire Wire Line
+	6050 2500 6050 2900
+Connection ~ 6050 2500
+Wire Wire Line
+	6050 2500 6700 2500
+Wire Wire Line
+	6700 2500 6700 2900
+Connection ~ 6700 2500
+Wire Wire Line
+	6700 2500 7400 2500
+Wire Wire Line
+	7400 2500 7400 2900
+Connection ~ 7400 2500
+Wire Wire Line
+	7400 2500 7850 2500
+Wire Wire Line
+	5400 4300 5400 4600
+Wire Wire Line
+	5400 4600 6050 4600
+Wire Wire Line
+	6050 4300 6050 4600
+Connection ~ 6050 4600
+Wire Wire Line
+	6050 4600 6700 4600
+Wire Wire Line
+	6700 4300 6700 4600
+Connection ~ 6700 4600
+Wire Wire Line
+	6700 4600 7400 4600
+Wire Wire Line
+	7400 4300 7400 4600
+Connection ~ 7400 4600
+Wire Wire Line
+	7400 4600 7850 4600
+Text Notes 8600 3900 0    50   ~ 0
+a Placa LED der.
+Text Notes 2550 4300 0    50   ~ 0
+a Placa LED izq.
+$Comp
+L Connector_Generic:Conn_01x04 J301
+U 1 1 61FA1174
+P 2900 3800
+AR Path="/61C2C499/61FA1174" Ref="J301"  Part="1" 
+AR Path="/61F84726/61FA1174" Ref="J701"  Part="1" 
+F 0 "J301" H 2980 3746 50  0000 L CNN
+F 1 "Conn_01x04" H 2980 3701 50  0001 L CNN
+F 2 "" H 2900 3800 50  0001 C CNN
+F 3 "~" H 2900 3800 50  0001 C CNN
+	1    2900 3800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J302
+U 1 1 61FA6120
+P 8600 3650
+AR Path="/61C2C499/61FA6120" Ref="J302"  Part="1" 
+AR Path="/61F84726/61FA6120" Ref="J702"  Part="1" 
+F 0 "J302" H 8680 3596 50  0000 L CNN
+F 1 "Conn_01x04" H 8680 3551 50  0001 L CNN
+F 2 "" H 8600 3650 50  0001 C CNN
+F 3 "~" H 8600 3650 50  0001 C CNN
+	1    8600 3650
+	1    0    0    1   
+$EndComp
+Connection ~ 4000 4900
+Wire Wire Line
+	4000 4900 4650 4900
+Connection ~ 4650 4900
+Wire Wire Line
+	3600 4900 4000 4900
+Wire Wire Line
+	5400 4600 5100 4600
+Wire Wire Line
+	5100 2650 5100 4600
+Connection ~ 5400 4600
+Wire Wire Line
+	3300 2500 3300 3600
+Wire Wire Line
+	3300 3600 3100 3600
+Wire Wire Line
+	3300 2500 5400 2500
+Wire Wire Line
+	5100 2650 3450 2650
+Wire Wire Line
+	3450 2650 3450 3700
+Wire Wire Line
+	3450 3700 3100 3700
+Wire Wire Line
+	4000 4500 4000 4900
+Wire Wire Line
+	4650 4500 4650 4900
+Wire Wire Line
+	3600 3900 3600 4900
+Wire Wire Line
+	4950 4750 8000 4750
+Wire Wire Line
+	8000 3650 8400 3650
+Wire Wire Line
+	8150 3750 8400 3750
+Wire Wire Line
+	4650 4900 8150 4900
+Wire Wire Line
+	8400 3550 7850 3550
+Wire Wire Line
+	8400 3450 7850 3450
+Wire Wire Line
+	8150 3750 8150 4900
+Wire Wire Line
+	8000 3650 8000 4750
+Wire Wire Line
+	7850 3550 7850 4600
+Wire Wire Line
+	7850 2500 7850 3450
+Wire Wire Line
+	4650 2800 4950 2800
+Wire Wire Line
+	4950 2800 4950 4750
+Wire Wire Line
+	4650 2800 4000 2800
+Connection ~ 4650 2800
+Wire Wire Line
+	3600 2800 3600 3800
+Wire Wire Line
+	3600 2800 4000 2800
+Connection ~ 4000 2800
+$EndSCHEMATC
